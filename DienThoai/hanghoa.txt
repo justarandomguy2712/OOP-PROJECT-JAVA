@@ -1,0 +1,21 @@
+true,Hang001,iPad M1 Pro,799,899,18
+true,Hang001,iPad M1 Pro,799,899,18
+true,Hang002,Galaxy Tab S9,650,820,14
+true,Hang003,Surface Pro 9,900,1150,16
+true,Hang004,Xiaomi Pad 6,400,520,11
+true,Hang005,Lenovo Tab P12,550,700,13
+true,Hang006,Huawei MatePad 11,480,650,12
+true,Hang007,Asus ROG Flow Z13,1200,1450,17
+true,Hang008,Amazon Fire HD 10,200,300,10
+true,Hang009,Realme Pad 2,300,450,11
+true,Hang010,Oppo Pad Air,350,500,12
+Hang001,iPad M1 Pro,799,899,18
+Hang002,Galaxy Tab S9,650,820,14
+Hang003,Surface Pro 9,900,1150,16
+Hang004,Xiaomi Pad 6,400,520,11
+Hang005,Lenovo Tab P12,550,700,13
+Hang006,Huawei MatePad 11,480,650,12
+Hang007,Asus ROG Flow Z13,1200,1450,17
+Hang008,Amazon Fire HD 10,200,300,10
+Hang009,Realme Pad 2,300,450,11
+Hang010,Oppo Pad Air,350,500,12
